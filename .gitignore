@@ -2,6 +2,3 @@
 node_modules
 .tmp
 npm-debug.log
-
-logo2.log
-Second Folder/*.log
